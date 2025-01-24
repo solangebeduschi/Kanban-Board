@@ -20,5 +20,19 @@ A full-stack Kanban board application with secure JWT authentication. The applic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/kanban-board.git
+   git clone https://github.com/solangebeduschi/Kanban-Board
    cd kanban-board
+
+2. Render link: https://kanban-board-2o6d.onrender.com
+
+
+# User Story 
+
+```md
+AS A member of an agile team
+I WANT a Kanban board with a secure login page
+SO THAT I can securely access and manage my work tasks
+```
+##License
+
+This project is open source and available under the MIT License.
